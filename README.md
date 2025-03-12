@@ -54,7 +54,10 @@ To prevent overfitting, the training process includes **early stopping**. This t
 1. **Install Dependencies**  
    Run the following command in your terminal: 'pip install -r requirements.txt'
 
-2. **Run the Training**  
+2. **Install Dataset**  
+   Search Kaggle for the EMNIST dataset and download the training and test sets in '.csv' format
+
+3. **Run the Training**  
    Start the training: 'python trainConvultional.py'
 
 ## To Run Inference:
