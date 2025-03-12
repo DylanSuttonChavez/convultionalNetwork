@@ -1,0 +1,11 @@
+Epoch 1/10 - Avg Loss: 0.4536 - Accuracy: 84.11%
+Epoch 2/10 - Avg Loss: 0.3604 - Accuracy: 86.59%
+Epoch 3/10 - Avg Loss: 0.3344 - Accuracy: 87.28%
+Epoch 4/10 - Avg Loss: 0.3153 - Accuracy: 87.91%
+Epoch 5/10 - Avg Loss: 0.2991 - Accuracy: 88.35%
+Epoch 6/10 - Avg Loss: 0.2847 - Accuracy: 88.85%
+Epoch 7/10 - Avg Loss: 0.2704 - Accuracy: 89.34%
+Epoch 8/10 - Avg Loss: 0.2579 - Accuracy: 89.75%
+Epoch 9/10 - Avg Loss: 0.2459 - Accuracy: 90.20%
+Epoch 10/10 - Avg Loss: 0.2353 - Accuracy: 90.58%
+Model saved as 'emnistModel.pkl'. Test Accuracy: 85.93%. Training completed.
